@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name":" LG LED",
+        "price": 30000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" LG REFRIGERATOR",
+        "price": 55000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" LG MICROWAVE",
+        "price": 12000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" LG WASHING MACHINE",
+        "price": 20000,
+        "image": "image/4.png"
+    }
+
+]
